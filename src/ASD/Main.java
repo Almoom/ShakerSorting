@@ -17,7 +17,6 @@ public class Main {
         int temp;
         int temp2;
         for (int i = 0; i < a.length/2; i++) {
-            count++;
             for (int j = 0; j < a.length-1; j++) {
                 if (a[j] > a[j+1]){
                     temp = a[j+1];
