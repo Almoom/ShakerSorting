@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     /*Урок 3. Поиск в массиве. Простые сортировки
-    2. *Реализовать шейкерную сортировку.*/
+    2. Реализовать шейкерную сортировку.*/
 
     public static void main(String[] args) {
         int [] arr = {9,8,7,6,5,4,3,2,1,0};
